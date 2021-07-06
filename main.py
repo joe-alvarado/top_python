@@ -32,7 +32,7 @@ data = [{
     'y': stars,
     'hovertext': labels,
     'marker': {
-        'color': 'rgb(60, 100, 150)',
+        'color': 'rgb(121, 169, 252)',
         'line': {'width': 1.5, 'color': 'rgb(25, 25, 25)'}
     },
     'opacity': 0.6,
